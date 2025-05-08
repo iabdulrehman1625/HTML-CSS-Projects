@@ -1,2 +1,2 @@
 # HTML-CSS-Projects <br>
-My all responsive are in this repo.
+My all responsive projects are in this repo.
